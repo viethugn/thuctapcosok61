@@ -1,0 +1,11 @@
+H:\BinaryTree_TTCS\BinaryTree_TTCS\bin\Debug\BinaryTree_TTCS.exe.config
+H:\BinaryTree_TTCS\BinaryTree_TTCS\bin\Debug\BinaryTree_TTCS.exe
+H:\BinaryTree_TTCS\BinaryTree_TTCS\bin\Debug\BinaryTree_TTCS.pdb
+H:\BinaryTree_TTCS\BinaryTree_TTCS\obj\Debug\BinaryTree_TTCS.frmBinaryTree.resources
+H:\BinaryTree_TTCS\BinaryTree_TTCS\obj\Debug\BinaryTree_TTCS.Properties.Resources.resources
+H:\BinaryTree_TTCS\BinaryTree_TTCS\obj\Debug\BinaryTree_TTCS.csproj.GenerateResource.cache
+H:\BinaryTree_TTCS\BinaryTree_TTCS\obj\Debug\BinaryTree_TTCS.csproj.CoreCompileInputs.cache
+H:\BinaryTree_TTCS\BinaryTree_TTCS\obj\Debug\BinaryTree_TTCS.exe
+H:\BinaryTree_TTCS\BinaryTree_TTCS\obj\Debug\BinaryTree_TTCS.pdb
+H:\BinaryTree_TTCS\BinaryTree_TTCS\obj\Debug\BinaryTree_TTCS.BR_TreePanel.resources
+H:\BinaryTree_TTCS\BinaryTree_TTCS\obj\Debug\BinaryTree_TTCS.csproj.AssemblyReference.cache
